@@ -16,3 +16,4 @@ set -gx PATH /usr/local/bin $PATH
 
 alias l 'ls -lah'
 alias vaporize_ghosts 'sudo killall launchservicesd; sudo killall Dock'
+alias vim 'nvim'
