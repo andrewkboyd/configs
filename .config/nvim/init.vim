@@ -29,6 +29,7 @@ call plug#begin('~/.local/shared/nvim/plugged')
 Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
+Plug 'rust-lang/rust.vim'
 call plug#end()
 
 let g:deoplete#enable_at_startup = 1
