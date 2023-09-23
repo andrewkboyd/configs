@@ -17,7 +17,7 @@ set backspace=indent,eol,start
 
 " set listchars
 set list
-set listchars=trail:·,precedes:«,extends:»,eol:↲,tab:▸ 
+set listchars=trail:·,precedes:«,extends:»,eol:↲,tab:>-
 
 " leader key
 let mapleader = "\<Space>"
