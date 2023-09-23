@@ -35,6 +35,8 @@ call plug#end()
 
 let g:airline#extensions#ale#enabled = 1
 
+let g:rustfmt_autosave = 1
+
 let g:deoplete#enable_at_startup = 1
 
 let g:airline#extensions#tabline#enabled = 1
